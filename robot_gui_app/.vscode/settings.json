@@ -1,0 +1,6 @@
+{
+    "ros.distro": "melodic",
+    "python.autoComplete.extraPaths": [
+        ""
+    ]
+}
